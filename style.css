@@ -8,4 +8,57 @@ h1 {
   color: black;
   font-size: 24px;
   text-decoration: underline;
+  text-align: center;
+}
+
+h2 {
+	text-align: left;
+	text-decoration: underline;
+}
+h3 {
+	text-align: left;
+	text-decoration: underline;
+}
+p {
+	font-family: comic sans MS;
+	font-size: 20px;
+	color:  #000000 ;
+}
+
+table {
+	border-spacing: 50px;
+}
+
+#images {
+	font-size: 24px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+
+#titles {
+	font-size: 32px;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+
+#special {
+	font-family: Times New Roman, serif;
+	font-size: 36px;
+	color: 0b990d;
+	text-decoration: underline;
+}
+
+#important {
+		color: red;
+		font-size: 24px;
+}
+
+#email {
+	font-family: Times New Roman, serif;
+	font-size: 20px
+}
+
+body {
+	background-image: url("background.jpg");
 }
