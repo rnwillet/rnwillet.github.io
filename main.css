@@ -1,3 +1,57 @@
+h1 {
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h2 {
+	text-align: left;
+	text-decoration: underline;
+}
+h3 {
+	text-align: left;
+	text-decoration: underline;
+}
+p {
+	font-family: comic sans MS;
+	font-size: 14px;
+	color:  #000000 ;
+}
+
+table {
+	border-spacing: 50px;
+}
+
+#images {
+	font-size: 18px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+
+#titles {
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+
+#special {
+	font-family: Times New Roman, serif;
+	font-size: 28px;
+	color: green;
+	text-decoration: underline;
+}
+
+#important {
+		color: red;
+		font-size: 18px;
+}
+
+#email {
+	font-family: Times New Roman, serif;
+	font-size: 14px
+}
+
 body {
-background-color:blue;
+	background-image: url("background.jpg");
 }
